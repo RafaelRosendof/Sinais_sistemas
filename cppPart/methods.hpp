@@ -28,6 +28,8 @@ class Methods {
 
     Métodos de matrizes e sistemas lineares{
 
+    multiplicação de vetores e adição de vetores e subtração de vetores também (métodos deles para plotar também em tempo real)
+
     adição de matrizes 
     multiplicação matrizes 
 
