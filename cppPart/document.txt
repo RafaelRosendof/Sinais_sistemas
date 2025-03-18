@@ -1,0 +1,2 @@
+
+Link do std::complex com os métodos referentes https://en.cppreference.com/w/cpp/numeric/complex
