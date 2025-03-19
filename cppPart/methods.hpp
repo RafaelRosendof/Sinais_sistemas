@@ -56,6 +56,7 @@ class Methods {
 
     //Métodos de matrizes, sistemas lineares e vetores
 
+    /*
     double norma(std::vector<double>& vecA);
     double add_vec(std::vector<double>& vecA , std::vector<double> &Vecb);
     //Para métodos onde precisam da soma de mais de dois vetores será necessário melhorias póstumas ou uma composição por parte do cliente de um método por um
@@ -68,7 +69,7 @@ class Methods {
 
     //Métodos de sinais e sistemas
 
-
+*/
 
 
 };
