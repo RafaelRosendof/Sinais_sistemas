@@ -18,7 +18,7 @@ int main() {
     cpp_dec_float_100 result = sqrt(pi);
     
     std::cout << "Raiz quadrada de PI: " << result << std::endl;
-    return 0;
+    return 0;x
 }
 
 */

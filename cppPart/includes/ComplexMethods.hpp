@@ -25,6 +25,7 @@ namespace ComplexOps {
     template<typename T>
     std::complex<T> conjugate(std::complex<T> a);
 
+    //more methods TODO
 }
 
 
